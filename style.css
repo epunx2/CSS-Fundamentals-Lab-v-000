@@ -23,12 +23,13 @@ nav a {
   margin-right: auto;
 }
 
-#featured-property figcaption, #featured-property p {
+#featured-property figcaption{
   text-align: center;
   font-size: 8px;
-  width: 800px;
 }
 
 #featured-property p {
+  text-align: center;
+  font-size: 8px;
   width: 800px;
 }
