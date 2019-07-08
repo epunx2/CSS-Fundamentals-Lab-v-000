@@ -17,7 +17,7 @@ nav a {
   padding: auto 10px;
 }
 
-#featured-property img {
+.center {
   display:block;
   margin-left: auto;
   margin-right: auto;
